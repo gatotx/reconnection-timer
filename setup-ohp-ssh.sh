@@ -14,7 +14,7 @@ fi
 # Read Input
 echo ' ##############################'
 echo 'By 
-echo ' Gatot"
+echo ' Gatot'
 echo 'jo3k3r telegram (t.me/jo3k3r)'
 echo '##############################'
 echo 'OHP For SSH'
