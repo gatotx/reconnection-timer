@@ -1,4 +1,109 @@
-#!/bin/bssh
-z="
-";cDz='xy/';NEz='.act';LHz='temd';pEz='e-ht';UDz='ttin';SGz='IP';ACz='"$GR';FCz='ram ';mz='clea';hHz='Exec';cFz='allo';RJz='tatu';aFz='eque';iEz='le 1';rFz='imeo';vz='en';Az='DIST';mBz='bold';pIz='XY_P';SCz='Inpu';ZGz='ps:/';AJz='atus';xEz='enfo';YBz='$(tp';VEz='le u';hDz='/pri';vFz='-pip';Tz='ER_I';dCz='H Po';jCz='RT';JGz='/';gDz='/etc';uIz='lete';EBz='n as';pCz='PRIV';ZHz='twor';bIz='etup';hz='-9.]';aIz='rf s';aHz='k.ta';eIz='.sh';XGz='wget';qIz='ORT';gEz='Y_PO';UHz='OHP ';ZBz='ut s';ADz='P_PO';GFz='6';qBz=' -e ';cBz='BLUE';EDz=' pri';EHz='sr/l';oGz='n/oh';TJz='y'\''';uFz='rate';AEz='var/';AGz='et-t';vBz=' '\''By';Lz=''\''='\'' ';Rz=' }'\''`';ODz='pt i';kCz='t Pr';LCz=''\''';aBz='etaf';PFz='ng 0';pBz='d)';lGz='on-t';RHz='Desc';yBz='tot"';lCz='ivox';qEz='tp-t';oz='if [';CHz='d 75';tCz='pser';FEz='ile ';Jz='| aw';PEz='filt';IDz='RONT';Xz='te g';BCz='EEN ';rCz='PORT';DJz='ng s';MEz='on';uEz='dit-';tDz='manu';Sz='SERV';ZCz='P SE';rDz='xy/u';gz='\([0';iGz='x/re';YFz='cept';IJz='h'\''';BEz='log/';kz='1/p'\''';PBz='taf ';eFz='i-re';oDz='/sha';IGz=' }';xGz='ohps';bDz='rivo';SFz='nnec';dBz='=$(t';CJz='typi';IHz='er-s';HCz='e/jo';yCz=''\'' OH';yIz='r st';iIz='rt:'\''';dEz='ss  ';ICz='3k3r';DBz='e ru';FGz='r.ac';wDz='dir ';IBz='exit';LDz='nter';XBz='RED=';hFz='unch';nGz='/mai';QBz='3)';VBz='af 2';YGz=' htt';pFz='-ali';aEz='list';AIz='R_IP';uGz='r/lo';JIz='tall';PGz='0.0.';OBz='t se';kGz='ecti';lDz='-man';CCz='jo3k';xHz='l $S';kDz='user';gCz=' '\''22';eCz='rt: ';WHz='SSH';wz='echo';GBz='t" 1';RFz='d-co';EEz='onsf';wHz='unne';aCz='RVER';qHz='7.0.';SJz='s pr';rHz='0.1:';NHz='h.se';tGz=' /us';NBz='(tpu';vGz='cal/';xDz='logd';oBz='$(pw';fEz='IVOX';Nz='rint';Oz=' tol';nFz='s 0';oEz='  0';dHz='r=ne';lBz='BOLD';LJz='us b';jBz=' sgr';DFz='er-l';eHz='[Ser';VCz='erve';FDz='voxy';XEz='er';GCz='(t.m';EFz='imit';Zz='o 8.';WGz='.'\''';rBz='"$BL';dz='-n '\''';EJz='yste';wCz='-i '\''';WCz='r IP';wBz='"$RE';AFz='bloc';YHz='s=ne';sEz='e  0';BIz=':$SS';DHz='5 /u';bz='8 | ';IEz='l.ac';ABz='crip';gFz='t-cr';BHz='chmo';fHz='vice';wIz=' '\''Ch';JFz='-aut';OEz='ion';bHz='rget';SIz=' on ';cCz='t SS';JJz='oxy ';DGz='EOF';DCz='3r t';LEz='ult.';OJz=' sys';wGz='bin/';KFz='hent';gGz='om/g';xCz='9999';vIz='d!'\''';MFz='ion-';tHz='VOXY';pGz='ver';UEz='ilte';ECz='eleg';GIz='artS';VGz='er..';QJz='tl s';JBz=' 1';XHz='Want';FHz='ocal';MJz='y ty';sBz='UE #';VDz='g up';MHz='tem/';cEz='ddre';jHz='t=/u';tIz='comp';QCz='read';LBz='YELL';Kz='k -F';kIz=' '\''HT';nEz='ggle';pHz='y 12';hGz='atot';vDz='conf';HEz='h-al';tz='0" ]';FFz=' 409';nDz='/usr';OHz='rvic';pz=' "$(';JDz='END=';fCz=''\'' -i';yDz='ir /';nIz=''\'' $P';GEz='matc';JCz=')"';CIz='Rest';KEz='defa';RBz='GREE';GHz='/bin';jIz=' $SS';pDz='re/d';oFz='keep';LIz='=mul';RIz='ices';MBz='OW=$';PDz='nsta';rIz='P Po';OCz='r SS';RDz='y pr';KHz='/sys';bGz='.git';NGz='e';SDz='y';PJz='temc';FIz='ys';hCz=''\'' SS';OIz='et';TFz='t-re';REz='le d';hBz='STAN';NCz='P Fo';lEz='emot';tFz='tole';HGz='lock';IFz='roxy';NJz='ping';NDz='ve a';NIz='targ';FJz='mctl';OGz='127.';FBz=' roo';SBz='N=$(';eDz='<<EO';Uz='P=`i';nBz='pwd=';hEz='togg';fBz='seta';nCz=' '\''81';MIz='ti-u';qCz='OXY_';YDz='mkdi';JHz='sh';Mz=''\''{ p';EIz='alwa';wEz='0';sDz='ser-';jGz='conn';xIz='eck ';iFz='ing ';OFz='ardi';UGz='serv';YEz='logf';qFz='ve-t';KGz='{ -b';jFz='spli';eEz=':$PR';eBz='put ';WFz='acce';mIz='ort:';uCz='ver ';kBz=' 0)';dFz='w-cg';kEz='le-r';gHz=']';cHz='Afte';QHz='t]';sz='!= "';kFz='t-la';sFz='ut 5';QFz='arde';BJz=' by ';mFz='form';gIz=''\'' $S';TEz='lt.f';yz='is s';cz='sed ';Gz='c/*-';UIz='syst';VFz='s  0';XCz=': '\'' ';Cz='awk ';BGz='ut 3';vEz='ons ';UFz='trie';Pz='ower';LGz='*.tc';xFz='1';rz='u)" ';bEz='en-a';KIz='edBy';dDz='cat ';Dz=''\''/^I';oIz='RIVO';iz='\+\)';XIz='able';bBz=' 1)';WDz=' Pri';ez='s/.*';uBz='#"';BFz='ks 0';Hz='rele';rEz='oggl';GGz='{ +b';fDz='F > ';XDz='...'\''';gBz='f 4)';UBz=' set';bCz='_IP';iDz='/con';lHz='port';RCz='-p '\''';TDz=' '\''Se';HFz='le-p';ZDz='r /e';ZIz='rm -';QGz='$SER';TIz='boot';ZFz='ed-r';LFz='icat';kHz='sh -';jz='.*/\';PIz=' '\''St';SHz='ript';Qz='($2)';Iz='ase ';jEz='enab';eGz='onte';WIz='l en';uHz='_POR';MGz='at.m';Bz='RO=`';az='8.8.';TGz=' ohp';qDz='oc/p';fIz=' IP:';QEz='erfi';fGz='nt.c';lIz='TP P';fz='src ';HIz='ec=3';Vz='p -o';GJz=' sta';lz='`';xz=' "Th';TBz='tput';MCz=' '\''OH';YIz='l st';AHz='h';QDz='ll -';HDz='AN_F';HBz='>&2';sCz='t oh';mCz='y Po';uDz='al';DIz='art=';dGz='serc';DDz='ling';rGz='hpse';KDz='noni';cIz='-ohp';BDz=' '\''In';Ez='D=/'\''';UCz='ur S';BBz='t mu';nz='r';vCz='Port';CGz='00';KCz=' '\''##';WEz='ser.';yGz='r-ss';ZEz='ile';yFz='sock';Wz=' rou';THz='ion=';sGz='rver';WBz=')';MDz='acti';PCz='H'\''';hIz=' '\''SS';cGz='hubu';yEz='rce-';dIz='-ssh';sIz='tup ';Fz=' /et';mDz='ual ';wFz='elin';mGz='imer';tBz='####';SEz='efau';HHz='/ohp';KBz='fi';bFz='sts ';yHz='ERVE';mHz=' $OH';oHz='prox';iHz='Star';Yz='et t';PHz='[Uni';HJz='tus ';fFz='ques';mEz='e-to';IIz='[Ins';aGz='/raw';QIz='art ';uz='; th';nHz='RT -';qz='id -';jDz='fig';iCz='H_PO';JEz='tion';aDz='tc/p';CBz='st b';iBz='D=$(';RGz='VER_';qGz='mv o';oCz='18'\'' ';vHz='T -t';GDz='DEBI';KJz='stat';CDz='stal';TCz='t yo';VIz='emct';XFz='pt-i';EGz='/use';VHz='For ';CFz='buff';DEz='oxy';NFz='forw';tEz='le-e';YCz='-i $';lFz='rge-';xBz='D Ga';sHz='$PRI';CEz='priv';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$z$mz$nz$z$oz$pz$qz$rz$sz$tz$uz$vz$z$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$z$IBz$JBz$z$KBz$z$LBz$MBz$NBz$OBz$PBz$QBz$z$RBz$SBz$TBz$UBz$VBz$WBz$z$XBz$YBz$ZBz$aBz$bBz$z$cBz$dBz$eBz$fBz$gBz$z$hBz$iBz$TBz$jBz$kBz$z$lBz$dBz$eBz$mBz$WBz$z$nBz$oBz$pBz$z$wz$qBz$rBz$sBz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$uBz$z$wz$vBz$z$wz$qBz$wBz$xBz$yBz$z$wz$qBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$z$wz$KCz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$LCz$z$wz$MCz$NCz$OCz$PCz$z$QCz$qBz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$Sz$Tz$ZCz$aCz$bCz$z$QCz$qBz$RCz$SCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$z$QCz$qBz$RCz$SCz$kCz$lCz$mCz$eCz$fCz$nCz$oCz$pCz$qCz$rCz$z$QCz$qBz$RCz$SCz$sCz$tCz$uCz$vCz$XCz$wCz$xCz$yCz$ADz$jCz$z$wz$BDz$CDz$DDz$EDz$FDz$LCz$z$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$lCz$SDz$z$wz$TDz$UDz$VDz$WDz$FDz$XDz$z$YDz$ZDz$aDz$bDz$cDz$z$dDz$eDz$fDz$gDz$hDz$FDz$iDz$jDz$z$kDz$lDz$mDz$nDz$oDz$pDz$qDz$bDz$rDz$sDz$tDz$uDz$z$vDz$wDz$gDz$hDz$FDz$z$xDz$yDz$AEz$BEz$CEz$DEz$z$MDz$EEz$FEz$GEz$HEz$IEz$JEz$z$MDz$EEz$FEz$KEz$LEz$MDz$MEz$z$MDz$EEz$FEz$kDz$NEz$OEz$z$PEz$QEz$REz$SEz$TEz$UEz$nz$z$PEz$QEz$VEz$WEz$PEz$XEz$z$YEz$FEz$YEz$ZEz$z$aEz$bEz$cEz$dEz$eEz$fEz$gEz$jCz$z$hEz$iEz$z$jEz$kEz$lEz$mEz$nEz$oEz$z$jEz$kEz$lEz$pEz$qEz$rEz$sEz$z$jEz$tEz$uEz$MDz$vEz$wEz$z$xEz$yEz$AFz$BFz$z$CFz$DFz$EFz$FFz$GFz$z$jEz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$z$NFz$QFz$RFz$SFz$TFz$UFz$VFz$z$WFz$XFz$LDz$YFz$ZFz$aFz$bFz$wEz$z$cFz$dFz$eFz$fFz$gFz$hFz$iFz$wEz$z$jFz$kFz$lFz$mFz$nFz$z$oFz$pFz$qFz$rFz$sFz$z$tFz$uFz$vFz$wFz$iFz$xFz$z$yFz$AGz$rFz$BGz$CGz$z$DGz$z$dDz$eDz$fDz$gDz$hDz$FDz$EGz$FGz$JEz$z$GGz$HGz$IGz$z$JGz$z$KGz$HGz$IGz$z$LGz$MGz$NGz$z$OGz$PGz$xFz$z$QGz$RGz$SGz$z$DGz$z$wz$BDz$CDz$DDz$TGz$UGz$VGz$WGz$z$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$mGz$nGz$oGz$tCz$pGz$z$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$VCz$yGz$AHz$z$BHz$CHz$DHz$EHz$FHz$GHz$HHz$UGz$IHz$JHz$z$wz$TDz$UDz$VDz$TGz$UGz$VGz$WGz$z$dDz$eDz$fDz$gDz$KHz$LHz$KHz$MHz$xGz$VCz$yGz$NHz$OHz$NGz$z$PHz$QHz$z$RHz$SHz$THz$UHz$VHz$WHz$z$XHz$YHz$ZHz$aHz$bHz$z$cHz$dHz$ZHz$aHz$bHz$z$eHz$fHz$gHz$z$hHz$iHz$jHz$EHz$FHz$GHz$HHz$UGz$IHz$kHz$lHz$mHz$ADz$nHz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$xHz$yHz$AIz$BIz$iCz$jCz$z$CIz$DIz$EIz$FIz$z$CIz$GIz$HIz$z$IIz$JIz$gHz$z$XHz$KIz$LIz$MIz$WEz$NIz$OIz$z$DGz$z$wz$PIz$QIz$UGz$RIz$SIz$TIz$LCz$z$UIz$VIz$WIz$XIz$EDz$FDz$z$UIz$VIz$YIz$QIz$CEz$DEz$z$UIz$VIz$WIz$XIz$TGz$UGz$IHz$JHz$z$UIz$VIz$YIz$QIz$xGz$VCz$yGz$AHz$z$ZIz$aIz$bIz$cIz$dIz$eIz$z$wz$KCz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$LCz$z$wz$TDz$sGz$fIz$gIz$yHz$AIz$z$wz$hIz$dCz$iIz$jIz$iCz$jCz$z$wz$kIz$lIz$mIz$nIz$oIz$pIz$qIz$z$wz$MCz$rIz$iIz$mHz$ADz$jCz$z$wz$KCz$tBz$tBz$tBz$tBz$tBz$tBz$tBz$LCz$z$wz$TDz$sIz$tIz$uIz$vIz$z$wz$wIz$xIz$xGz$VCz$yIz$AJz$BJz$CJz$DJz$EJz$FJz$GJz$HJz$xGz$VCz$yGz$IJz$z$wz$wIz$xIz$CEz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$SJz$lCz$TJz"
+#!/bin/bash
+
+DISTRO=`awk '/^ID=/' /etc/*-release | awk -F'=' '{ print tolower($2) }'`
+SERVER_IP=`ip -o route get to 8.8.8.8 | sed -n 's/.*src \([0-9.]\+\).*/\1/p'`
+
+clear
+
+# Check if root
+if [ "$(id -u)" != "0" ]; then
+   echo "This script must be run as root" 1>&2
+   exit 1
+fi
+
+# Read Input
+echo ' ##############################'
+echo 'By 
+echo ' Gatot"
+echo '$GREEN jo3k3r telegram (t.me/jo3k3r)'
+echo '##############################'
+echo 'OHP For SSH'
+read -e -p 'Input your Server IP: ' -i $SERVER_IP SERVER_IP
+read -e -p 'Input SSH Port: ' -i '22' SSH_PORT
+read -e -p 'Input Privoxy Port: ' -i '8118' PRIVOXY_PORT
+read -e -p 'Input ohpserver Port: ' -i '9999' OHP_PORT
+
+# Install Dependencies
+echo 'Installing privoxy'
+DEBIAN_FRONTEND=noninteractive apt install -y privoxy 
+
+# Setup Privoxy
+echo 'Setting up Privoxy...'
+mkdir /etc/privoxy/
+cat <<EOF > /etc/privoxy/config
+user-manual /usr/share/doc/privoxy/user-manual
+confdir /etc/privoxy
+logdir /var/log/privoxy
+actionsfile match-all.action
+actionsfile default.action
+actionsfile user.action
+filterfile default.filter
+filterfile user.filter
+logfile logfile
+listen-address  :$PRIVOXY_PORT
+toggle 1
+enable-remote-toggle  0
+enable-remote-http-toggle  0
+enable-edit-actions 0
+enforce-blocks 0
+buffer-limit 4096
+enable-proxy-authentication-forwarding 0
+forwarded-connect-retries  0
+accept-intercepted-requests 0
+allow-cgi-request-crunching 0
+split-large-forms 0
+keep-alive-timeout 5
+tolerate-pipelining 1
+socket-timeout 300
+EOF
+
+cat <<EOF > /etc/privoxy/user.action
+{ +block }
+/
+
+{ -block }
+*.tcat.me
+127.0.0.1
+$SERVER_IP
+EOF
+
+# Setup ohpserver
+echo 'Installing ohpserver...'
+wget https://raw.githubusercontent.com/gatotx/reconnection-timer/main/ohpserver
+mv ohpserver /usr/local/bin/ohpserver-ssh
+chmod 755 /usr/local/bin/ohpserver-ssh
+
+echo 'Setting up ohpserver...'
+cat <<EOF > /etc/systemd/system/ohpserver-ssh.service
+[Unit]
+Description=OHP For SSH
+Wants=network.target
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/ohpserver-ssh -port $OHP_PORT -proxy 127.0.0.1:$PRIVOXY_PORT -tunnel $SERVER_IP:$SSH_PORT
+Restart=always
+RestartSec=3
+[Install]
+WantedBy=multi-user.target
+EOF
+
+# Enable on boot
+echo 'Start services on boot'
+systemctl enable privoxy
+systemctl start privoxy
+systemctl enable ohpserver-ssh
+systemctl start ohpserver-ssh
+
+rm -rf setup-ohp-ssh.sh
+
+echo '##############################'
+echo 'Server IP:' $SERVER_IP
+echo 'SSH Port:' $SSH_PORT
+echo 'HTTP Port:' $PRIVOXY_PORT
+echo 'OHP Port:' $OHP_PORT
+echo '##############################'
+
+echo 'Setup completed!'
+echo 'Check ohpserver status by typing systemctl status ohpserver-ssh'
+echo 'Check privoxy status by typing systemctl status privoxy'
