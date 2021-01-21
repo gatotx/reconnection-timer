@@ -2,7 +2,7 @@
 
     Usage:  
     
-    Reconnection Timer by @pigscanfly | Version: 0.0.1
+    Reconnection Timer by @gatot | Version: 0.0.1
       -service string
             Service to be restarted
       -timer int
