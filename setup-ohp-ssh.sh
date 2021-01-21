@@ -12,11 +12,6 @@ if [ "$(id -u)" != "0" ]; then
 fi
 
 # Read Input
-echo ' ##############################'
-echo 'By 
-echo ' Gatot'
-echo 'jo3k3r telegram (t.me/jo3k3r)'
-echo '##############################'
 echo 'OHP For SSH'
 read -e -p 'Input your Server IP: ' -i $SERVER_IP SERVER_IP
 read -e -p 'Input SSH Port: ' -i '22' SSH_PORT
