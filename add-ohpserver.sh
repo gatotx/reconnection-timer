@@ -20,9 +20,9 @@ echo ' '
 echo 'Add New Server To OHP (SSH)'
 read -e -p 'Input Service Name: ' -i 'ohpserver-001' SERNAME
 read -e -p 'Input Server IP: ' -i $SERVER_IP SERVER_IP
-read -e -p 'Input SSH Port: ' -i '22' SSH_PORT
+read -e -p 'Input SSH Port: ' -i '250' SSH_PORT
 read -e -p 'Input Privoxy Port: ' -i '8118' PRIVOXY_PORT
-read -e -p 'Input OHP Port: ' -i '9991' OHP_PORT
+read -e -p 'Input OHP Port: ' -i '9999' OHP_PORT
 
 echo 'Checking if service file exists...'
 FILE=/etc/systemd/system/$SERNAME.service
